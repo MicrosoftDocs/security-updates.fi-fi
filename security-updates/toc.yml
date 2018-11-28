@@ -1,0 +1,177 @@
+- name: Suojaustiedotteet ja tietoturvatiedotteet
+  href: index.md
+  items:
+  - name: Tietoturvatiedotteiden yhteenvedot
+    items:
+    - name: "2012"
+      items:
+      - name: MS12-JUN
+        href: ms12-jun.md
+      - name: MS12-MAY
+        href: ms12-may.md
+      - name: MS12-APR
+        href: ms12-apr.md
+      - name: MS12-MAR
+        href: ms12-mar.md
+      - name: MS12-FEB
+        href: ms12-feb.md
+      - name: MS12-JAN
+        href: ms12-jan.md
+    - name: "2011"
+      items:
+      - name: MS11-DEC
+        href: ms11-dec.md
+      - name: MS11-NOV
+        href: ms11-nov.md
+      - name: MS11-OCT
+        href: ms11-oct.md
+      - name: MS11-MAY
+        href: ms11-may.md
+      - name: MS11-SEP
+        href: ms11-sep.md
+      - name: MS11-AUG
+        href: ms11-aug.md
+      - name: MS11-MAR
+        href: ms11-mar.md
+      - name: MS11-JUL
+        href: ms11-jul.md
+      - name: MS11-JUN
+        href: ms11-jun.md
+      - name: MS11-APR
+        href: ms11-apr.md
+      - name: MS11-FEB
+        href: ms11-feb.md
+      - name: MS11-JAN
+        href: ms11-jan.md
+    - name: "2010"
+      items:
+      - name: MS10-DEC
+        href: ms10-dec.md
+      - name: MS10-OCT
+        href: ms10-oct.md
+      - name: MS10-SEP
+        href: ms10-sep.md
+      - name: MS10-NOV
+        href: ms10-nov.md
+      - name: MS10-JUN
+        href: ms10-jun.md
+      - name: MS10-JUL
+        href: ms10-jul.md
+      - name: MS10-MAY
+        href: ms10-may.md
+      - name: MS10-APR
+        href: ms10-apr.md
+      - name: MS10-MAR
+        href: ms10-mar.md
+      - name: MS10-FEB
+        href: ms10-feb.md
+      - name: MS10-AUG
+        href: ms10-aug.md
+      - name: MS10-JAN
+        href: ms10-jan.md
+    - name: "2009"
+      items:
+      - name: MS09-DEC
+        href: ms09-dec.md
+      - name: MS09-NOV
+        href: ms09-nov.md
+      - name: MS09-OCT
+        href: ms09-oct.md
+      - name: MS09-SEP
+        href: ms09-sep.md
+      - name: MS09-AUG
+        href: ms09-aug.md
+      - name: MS09-JUL
+        href: ms09-jul.md
+      - name: MS09-JUN
+        href: ms09-jun.md
+      - name: MS09-MAY
+        href: ms09-may.md
+      - name: MS09-APR
+        href: ms09-apr.md
+      - name: MS09-MAR
+        href: ms09-mar.md
+      - name: MS09-FEB
+        href: ms09-feb.md
+      - name: MS09-JAN
+        href: ms09-jan.md
+    - name: "2008"
+      items:
+      - name: MS08-DEC
+        href: ms08-dec.md
+      - name: MS08-NOV
+        href: ms08-nov.md
+      - name: MS08-OCT
+        href: ms08-oct.md
+      - name: MS08-SEP
+        href: ms08-sep.md
+      - name: MS08-AUG
+        href: ms08-aug.md
+      - name: MS08-JUL
+        href: ms08-jul.md
+      - name: MS08-JUN
+        href: ms08-jun.md
+      - name: MS08-APR
+        href: ms08-apr.md
+      - name: MS08-MAR
+        href: ms08-mar.md
+      - name: MS08-FEB
+        href: ms08-feb.md
+      - name: MS08-JAN
+        href: ms08-jan.md
+    - name: "2007"
+      items:
+      - name: MS07-DEC
+        href: ms07-dec.md
+      - name: MS07-NOV
+        href: ms07-nov.md
+      - name: MS07-OCT
+        href: ms07-oct.md
+      - name: MS07-SEP
+        href: ms07-sep.md
+      - name: MS07-AUG
+        href: ms07-aug.md
+      - name: MS07-JUL
+        href: ms07-jul.md
+      - name: MS07-JUN
+        href: ms07-jun.md
+      - name: MS07-MAY
+        href: ms07-may.md
+      - name: MS08-MAY
+        href: ms08-may.md
+      - name: MS07-APR
+        href: ms07-apr.md
+      - name: MS07-APR-OOB
+        href: ms07-apr-oob.md
+      - name: MS07-MAR
+        href: ms07-mar.md
+      - name: MS07-FEB
+        href: ms07-feb.md
+      - name: MS07-JAN
+        href: ms07-jan.md
+    - name: "2006"
+      items:
+      - name: MS06-DEC
+        href: ms06-dec.md
+      - name: MS06-NOV
+        href: ms06-nov.md
+      - name: MS06-OCT
+        href: ms06-oct.md
+      - name: MS06-SEP
+        href: ms06-sep.md
+      - name: MS06-AUG
+        href: ms06-aug.md
+      - name: MS06-JUL
+        href: ms06-jul.md
+      - name: MS06-JUN
+        href: ms06-jun.md
+      - name: MS06-MAY
+        href: ms06-may.md
+      - name: MS06-APR
+        href: ms06-apr.md
+      - name: MS06-MAR
+        href: ms06-mar.md
+      - name: MS06-FEB
+        href: ms06-feb.md
+      - name: MS06-JAN
+        href: ms06-jan.md
