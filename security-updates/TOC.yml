@@ -716,6 +716,8 @@
       href: ./SecurityBulletinSummaries/2007/MS07-may.md
     - name: MS07-apr
       href: ./SecurityBulletinSummaries/2007/MS07-apr.md
+    - name: MS07-apr-oob
+      href: ./SecurityBulletinSummaries/2007/ms07-apr-oob.md
     - name: MS07-mar
       href: ./SecurityBulletinSummaries/2007/MS07-mar.md
     - name: MS07-feb
